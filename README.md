@@ -1,1 +1,0 @@
-# gapstars-technical-assesment
